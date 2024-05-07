@@ -107,4 +107,4 @@ let greeting = "Hello,";
 
 let userName = prompt("Input user name:", "");
 
-document.write("<h1>" + greeting + " " + userName + "</h1>");
+document.write("<p>" + greeting + " " + userName + "</p>");
